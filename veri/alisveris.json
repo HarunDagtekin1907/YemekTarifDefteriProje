@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "user_id": 4,
+        "madde": "1 kilogram un",
+        "alindi": false
+    },
+    {
+        "id": 2,
+        "user_id": 2,
+        "madde": "1 kilogram un",
+        "alindi": false
+    },
+    {
+        "id": 3,
+        "user_id": 1,
+        "madde": "1 kilogram un",
+        "alindi": false
+    },
+    {
+        "id": 5,
+        "user_id": 7,
+        "madde": "1 kilogram un",
+        "alindi": false
+    },
+    {
+        "id": 6,
+        "user_id": 7,
+        "madde": "MERCİMEKKK",
+        "alindi": false
+    },
+    {
+        "id": 7,
+        "user_id": 7,
+        "madde": "İMZA KAĞIDI,",
+        "alindi": false
+    },
+    {
+        "id": 8,
+        "user_id": 7,
+        "madde": "DOKUNMATİK EKRAN",
+        "alindi": false
+    },
+    {
+        "id": 9,
+        "user_id": 2,
+        "madde": "1 kilogram şeker",
+        "alindi": false
+    },
+    {
+        "id": 10,
+        "user_id": 8,
+        "madde": "1 kilogram un",
+        "alindi": false
+    },
+    {
+        "id": 11,
+        "user_id": 8,
+        "madde": "3 adet orta boy patates 150 g haşlanmış tavuk göğsü 1 su bardağı rendelenmiş kaşar peyniri 1 yumurta 3 yemek kaşığı galeta unu Tuz, karabiber, pul biber",
+        "alindi": false
+    }
+]

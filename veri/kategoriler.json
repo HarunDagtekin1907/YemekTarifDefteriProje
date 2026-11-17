@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "kategori_ad": "Çorbalar"
+    },
+    {
+        "id": 2,
+        "kategori_ad": "Başlangıçlar & Ara Sıcaklar"
+    },
+    {
+        "id": 3,
+        "kategori_ad": "Ana Yemekler"
+    },
+    {
+        "id": 4,
+        "kategori_ad": "Tatlılar"
+    },
+    {
+        "id": 5,
+        "kategori_ad": "Salatalar & Mezeler"
+    },
+    {
+        "id": 6,
+        "kategori_ad": "İçecekler"
+    }
+]

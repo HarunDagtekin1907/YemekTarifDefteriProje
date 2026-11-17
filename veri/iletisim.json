@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "ad_soyad": "Harun Dağtekin",
+        "eposta": "harundagtekin8@gmail.com",
+        "konu": "Renkler",
+        "icerik": "Renk paletleri daha güzel olabilir",
+        "tarih": "28.05.2026 04:46"
+    },
+    {
+        "id": 2,
+        "ad_soyad": "Cihan Yıldırım",
+        "eposta": "cihanyldr35@gmail.com",
+        "konu": "XXXX",
+        "icerik": "aaa",
+        "tarih": "30.05.2026 16:06"
+    },
+    {
+        "id": 3,
+        "ad_soyad": "harun Dağtekin",
+        "eposta": "harundagtekin8@gmail.com",
+        "konu": "XXXX",
+        "icerik": "szdfghj",
+        "tarih": "01.06.2026 10:49"
+    },
+    {
+        "id": 4,
+        "ad_soyad": "Seda Kocak",
+        "eposta": "sedakralbabaproxxx@gmail.com",
+        "konu": "Başlıklar çok kötü",
+        "icerik": "proteinli pankek 10 kilo aldırdı sakın yemeyin",
+        "tarih": "01.06.2026 16:31"
+    },
+    {
+        "id": 5,
+        "ad_soyad": "Harun Dağtekin",
+        "eposta": "harundagtekin8@gmail.com",
+        "konu": "ABC",
+        "icerik": "Selamlar",
+        "tarih": "01.06.2026 22:28"
+    }
+]

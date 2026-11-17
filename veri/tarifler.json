@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "user_id": 2,
+        "kategori_id": 1,
+        "baslik": "Fırında Somon",
+        "malzemeler": "2 dilim somon fileto\r\n2 yemek kaşığı zeytinyağı\r\n1 diş sarımsak (ezilmiş)\r\nYarım limonun suyu\r\nBirkaç dilim limon\r\nTuz\r\nKarabiber\r\nKekik veya biberiye\r\nİsteğe bağlı:\r\nPatates\r\nSoğan\r\nCherry domates\r\nKapya biber",
+        "hazirlanis": "Fırını 200°C’ye ısıtın.\r\nSomonları yağlı kağıt serilmiş tepsiye yerleştirin.\r\nÜzerine zeytinyağı, limon suyu ve sarımsağı sürün.\r\nTuz, karabiber ve kekik serpin.\r\nLimon dilimlerini üstüne koyun.\r\nSebze kullanacaksanız iri doğrayıp biraz zeytinyağı ve tuzla harmanlayarak yanına dizin.\r\nÖnceden ısıtılmış fırında:\r\nİnce filetoysa 12–15 dakika,\r\nKalın filetoysa 18–20 dakika pişirin.\r\nÜzeri hafif kızarınca çıkarın. Çok kurutmamaya dikkat edin.\r\n\r\nYanına pirinç pilavı, roka salatası veya yoğurtlu sos çok yakışır.",
+        "resim_url": "uploads\/tarif_6a204588a04e3.jpg"
+    },
+    {
+        "id": 4,
+        "user_id": 5,
+        "kategori_id": 4,
+        "baslik": "Manyaksal Protein Pankek",
+        "malzemeler": "2 adet yumurta\r\n1 adet orta boy muz\r\n40 g yulaf ezmesi (yaklaşık 4 yemek kaşığı)\r\n1 ölçek protein tozu (isteğe bağlı, yaklaşık 25-30 g)\r\n1 çay kaşığı kabartma tozu\r\nTarçın (isteğe bağlı)\r\nYapışmaz tava için çok az yağ",
+        "hazirlanis": "Muzu bir çatalla iyice ez.\r\nYumurtaları ekleyip karıştır.\r\nYulaf ezmesi, protein tozu, kabartma tozu ve tarçını ekle.\r\nKarışımı blenderdan geçirirsen daha pürüzsüz olur.\r\nYapışmaz tavayı orta-kısık ateşte ısıt.\r\nKarışımdan küçük kepçeler halinde tavaya dök.\r\nÜst yüzeyde kabarcıklar oluşunca çevir.\r\nDiğer tarafını da 1-2 dakika pişir.\r\n\r\nSüzme yoğurt veya yoğurt\r\nTaze meyveler\r\nŞekersiz fıstık ezmesi",
+        "resim_url": "uploads\/tarif_6a1af93507fa9.png"
+    },
+    {
+        "id": 6,
+        "user_id": 7,
+        "kategori_id": 1,
+        "baslik": "Kelle Paça Çorbası",
+        "malzemeler": "inek kafası\r\nsu\r\ntencere\r\nhakan corba",
+        "hazirlanis": "inegi kesin kafasını alın yüzün suda kaynatın sarımsak sosu ekleyin sifa corbasi afiet olmasin ❤️👌😍",
+        "resim_url": "uploads\/tarif_6a1d9a4a4d7ef.png"
+    },
+    {
+        "id": 7,
+        "user_id": 2,
+        "kategori_id": 3,
+        "baslik": "Tavuklu Kaşarlı Wrap",
+        "malzemeler": "1 adet lavaş\r\n150 g tavuk göğsü\r\n1 avuç rendelenmiş kaşar peyniri\r\nMarul\r\nDomates\r\n1 yemek kaşığı yoğurt\r\nTuz, karabiber, pul biber",
+        "hazirlanis": "Tavuk göğsünü küçük küpler halinde doğrayın.\r\nTuz ve baharatlarla tavada pişirin.\r\nLavaşın üzerine yoğurt sürün.\r\nMarul, domates, tavuk ve kaşarı ekleyin.\r\nLavaşı sarın ve tost makinesinde veya tavada 2-3 dakika kızartın.\r\nOrtadan ikiye keserek servis edin.\r\n\r\nHazırlık: 10 dakika\r\nPişirme: 10 dakika\r\nToplam: 20 dakika",
+        "resim_url": "uploads\/tarif_6a1dec86031d4.jpg"
+    },
+    {
+        "id": 9,
+        "user_id": 8,
+        "kategori_id": 7,
+        "baslik": "Tavuklu Kaşarlı Patates Topları",
+        "malzemeler": "3 adet orta boy patates\r\n150 g haşlanmış tavuk göğsü\r\n1 su bardağı rendelenmiş kaşar peyniri\r\n1 yumurta\r\n3 yemek kaşığı galeta unu\r\nTuz, karabiber, pul biber",
+        "hazirlanis": "Patatesleri haşlayıp ezin.\r\nTavukları küçük parçalar halinde didikleyin.\r\nPatates, tavuk, kaşar, baharatlar ve galeta ununu karıştırın.\r\nKarışımdan ceviz büyüklüğünde toplar yapın.\r\nTopları çırpılmış yumurtaya bulayın.\r\n200°C fırında 20-25 dakika pişirin veya tavada az yağda kızartın.",
+        "resim_url": "uploads\/tarif_6a1ecb8a8371c.jpg"
+    }
+]

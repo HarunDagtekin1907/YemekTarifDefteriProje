@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "baslik": "HARİKA LEZZET",
+        "aciklama": "Günün açlığını alacak mükemmel bir menü",
+        "corba": "Mercimek",
+        "ana_yemek": "Karnıyarık",
+        "yan_lezzet": "Çoban Salata",
+        "tatli": "San Sebastian",
+        "renk": "#fff700",
+        "ikon": "fa-gem",
+        "malzemeler": "",
+        "hazirlanis": ""
+    },
+    {
+        "id": 1,
+        "baslik": "Geleneksel Akşam Yemeği",
+        "aciklama": "Türk mutfağının vazgeçilmez lezzetleriyle hazırlanan klasik bir menü.",
+        "corba": "Süzme Mercimek Çorbası",
+        "ana_yemek": "Karnıyarık & Şehriyeli Pirinç Pilavı",
+        "yan_lezzet": "Naneli Cacık",
+        "tatli": "Fırın Sütlaç",
+        "renk": "#e74c3c",
+        "ikon": "fa-fire-burner"
+    },
+    {
+        "id": 2,
+        "baslik": "Misafir Ağırlama Menüsü",
+        "aciklama": "Özel misafirlerinizi ağırlarken göze ve damağa hitap edecek şık bir menü.",
+        "corba": "Kremalı Mantar Çorbası",
+        "ana_yemek": "Fırında Soslu Antrikot & Patates Püresi",
+        "yan_lezzet": "Cevizli Mevsim Salata",
+        "tatli": "Frambuazlı Cheesecake",
+        "renk": "#8e44ad",
+        "ikon": "fa-gem"
+    },
+    {
+        "id": 3,
+        "baslik": "Sağlıklı \/ Fit Menü",
+        "aciklama": "Formuna dikkat edenler için kalorisi hesaplanmış, protein ağırlıklı hafif bir menü.",
+        "corba": "Detoks Brokoli Çorbası",
+        "ana_yemek": "Izgara Somon & Haşlanmış Kuşkonmaz",
+        "yan_lezzet": "Kinoa Salatası",
+        "tatli": "Şekersiz Yulaflı Fit Brownie",
+        "renk": "#27ae60",
+        "ikon": "fa-leaf"
+    },
+    {
+        "id": 4,
+        "baslik": "Pratik Öğrenci Menüsü",
+        "aciklama": "Kısıtlı zamanda, az malzemeyle ve uygun bütçeyle hazırlayabileceğiniz hızlı bir menü.",
+        "corba": "Hazır Ezogelin Çorba",
+        "ana_yemek": "Kremalı Mantarlı Makarna",
+        "yan_lezzet": "Çoban Salata",
+        "tatli": "Tavada Kolay Pankek",
+        "renk": "#f39c12",
+        "ikon": "fa-clock"
+    },
+    {
+        "id": 5,
+        "baslik": "SOKAK LEZZETİ MENÜ",
+        "aciklama": "Doyurucu ve keyifli atıştırmalıkları bir araya getiren, arkadaş buluşmalarına uygun nefis bir menü",
+        "corba": "Baharatlı Domates Çorbası",
+        "ana_yemek": "Çift Katlı Kasap Burger & Patates",
+        "yan_lezzet": "Çıtır Soğan Halkası",
+        "tatli": "Belçika Çikolatalı Sufle",
+        "renk": "#0eadf1",
+        "ikon": "fa-star"
+    }
+]

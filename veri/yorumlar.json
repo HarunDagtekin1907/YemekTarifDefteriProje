@@ -1,0 +1,23 @@
+[
+    {
+        "id": 5,
+        "tarif_id": 4,
+        "user_id": 7,
+        "yorum": "mercimeklisi gelsin 😍👏",
+        "tarih": "01.06.2026 16:29"
+    },
+    {
+        "id": 6,
+        "tarif_id": 7,
+        "user_id": 2,
+        "yorum": "Kesinlikle denemelisiniz🤤",
+        "tarih": "01.06.2026 22:33"
+    },
+    {
+        "id": 7,
+        "tarif_id": 4,
+        "user_id": 9,
+        "yorum": "böyle bir tarif olamaz ezhelin kör anası mı yazdı tarifi.Mazallah insan yemekten soğur",
+        "tarih": "02.06.2026 08:33"
+    }
+]
